@@ -1,0 +1,72 @@
+Fortress of Flags A.I. Sandbox - License Agreement for use and distribution
+
+This license statement and limited warranty constitutes 
+a legal agreement ("License Agreement") between you 
+(either as an individual or a single entity) and 
+John A. Reder for Fortress of Flags ("Software")
+identified above, including any software, media, and 
+accompanying on-line or printed documentation.
+By installing, copying, or otherwise using Fortress of Flags,
+you agree to be bound by the terms of this 
+Agreement. If you do not agree to the terms of this 
+text, uninstall or do not install or use Fortress of Flags.
+
+1. DISCLAIMER OF WARRANTY
+This software and the accompanying files are sold and 
+distributed "AS IS" and without warranties as to 
+performance or merchantability or any other warranties
+whether expressed or implied.
+The author will not be liable for data loss, damages, 
+loss of profits or any other kind of loss while using 
+or misusing this software.
+Limitation of liability to the maximum extent permitted 
+by applicable law, in no event shall John A. Reder or his
+suppliers be liable for any special, incidental, 
+indirect, or consequential damages whatsoever 
+(including, without limitation, damages for loss 
+of business profits, business interruption, loss 
+of business information, or any other pecuniary 
+loss) arising out of the use of or inability to use 
+Fortress of Flags or the provision of or failure to provide 
+support services, even if John A. Reder has been advised 
+of the possibility of such damages. 
+In any case, John A. Reder's entire liability under 
+any provision of this license agreement shall be 
+limited to the greater of the amount actually paid 
+by you for the Fortress of Flags (Which is Free!).
+
+2. LIMITATIONS
+You may not reverse engineer, decompile, or 
+disassemble the Fortress of Flags 3D Engine, except and 
+only to the extent that such activity is expressly permitted 
+by applicable law notwithstanding this limitation.
+Fortress of Flags is licensed as a single product.
+Any such unauthorized use shall result in immediate 
+and automatic termination of this license and may 
+result in criminal and/or civil prosecution.
+
+3. COPYRIGHT
+All title and copyrights in and to Fortress of Flags: A.I. Sandbox
+(including but not limited to any images, photographs, 
+animations, video, audio, music, text, and "applets" 
+incorporated into the Fortress of Flags), the accompanying printed 
+materials, and any copies of Fortress of Flags are owned by 
+John A. Reder. Fortress of Flags is protected 
+by copyright laws and international treaty provisions. 
+Therefore, you must treat Fortress of Flags like any other 
+copyrighted material.You may not copy the printed materials
+accompanying Fortress of Flags. 
+The unregistered shareware version of Fortress of Flags, may be 
+freely distributed, provided the distribution package 
+is not modified. So please give the shareware version of 
+Fortress of Flags to everybody that is interested in this 
+kind of software.
+
+
+5. MISCELLANEOUS
+All rights not expressly granted here are reserved 
+by John A. Reder.
+
+Fortress of Flags: A.I. Sandbox
+Copyright (C) 2002-2007 John A. Reder
+All Rights Reserved.
